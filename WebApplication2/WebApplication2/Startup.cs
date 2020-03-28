@@ -12,6 +12,7 @@ namespace WebApplication2
 {
     public class Startup
     {
+        //startup file
         public Startup(IHostingEnvironment env)
         {
             var builder = new ConfigurationBuilder()
